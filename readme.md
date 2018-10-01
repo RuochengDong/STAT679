@@ -1,1 +1,1 @@
-This file contains some note that are important from STAT 679.
+This folder contains some usful and important thing from STAT 679.
